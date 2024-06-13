@@ -1,0 +1,29 @@
+[33mcommit 49dab25cfd5291fd41ba2413ced3ac915aad6e55[m[33m ([m[1;36mHEAD -> [m[1;32mbug/login[m[33m, [m[1;32mmaster[m[33m)[m
+Author: rizwan <mrizwan@gosaas.io>
+Date:   Thu Jun 13 10:26:34 2024 +0500
+
+    someline added in file1
+
+[33mcommit 5073c36711e2eb4cb32492e46c94737cbe5d7f13[m
+Author: rizwan <mrizwan@gosaas.io>
+Date:   Tue Jun 11 16:47:10 2024 +0500
+
+    file1 name changed to file3
+
+[33mcommit 23123aead616d796c1ba0d19c83dd5a1f56256cb[m
+Author: rizwan <mrizwan@gosaas.io>
+Date:   Tue Jun 11 16:45:21 2024 +0500
+
+    line 1 noth
+
+[33mcommit 7724e464f2b97397f2c0a1e39d8d7a995a1e3bae[m
+Author: rizwan <mrizwan@gosaas.io>
+Date:   Tue Jun 11 16:25:24 2024 +0500
+
+    not again added
+
+[33mcommit c0b06c82b91f5d04f41a1e99d2b5fc2af91c466e[m
+Author: rizwan <mrizwan@gosaas.io>
+Date:   Tue Jun 11 16:19:43 2024 +0500
+
+    first commit
